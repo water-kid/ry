@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.cj.mapper.RoleMapper">
+
+    <!--
+        属于这个部门不一定可以操作这个部门，， 操作的数据看角色
+    -->
+    <select id="getAllRoles" resultType="com.cj.entity.Role">
+
+    </select>
+</mapper>

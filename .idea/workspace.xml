@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5034a4d-0fed-4534-aa4f-548d23215000" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="user" />
+        <option value="hello" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="G:\maven_repository" />
+        <option name="mavenHome" value="G:/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="G:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="2Jx1I5XvOEq3TED8xQHVFPDR8Aj" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/data_scope/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.cj" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="I:\ruoyi\data_scope\src\main\resources" />
+      <recent name="I:\ruoyi\repeat_submit\src\main\resources" />
+      <recent name="I:\ruoyi\datasource\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DataScopeApplication">
+    <configuration name="MyClassLoader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyClassLoader" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataScopeApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data_scope" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cj" />
+      <option name="MAIN_CLASS_NAME" value="com.cj.DataScopeApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RateLimiterApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rate_limiter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cj" />
+      <option name="MAIN_CLASS_NAME" value="com.cj.RateLimiterApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RateLimiterApplicationTests.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rate_limiter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cj" />
+      <option name="MAIN_CLASS_NAME" value="com.cj.RateLimiterApplicationTests" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RateLimiterApplicationTests.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rate_limiter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cj" />
+      <option name="MAIN_CLASS_NAME" value="com.cj.RateLimiterApplicationTests" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CaptchaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="captcha" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cj.CaptchaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataScopeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="data_scope" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cj.DataScopeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatasourceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="datasource" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cj.DatasourceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RateLimiterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rate_limiter" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cj.RateLimiterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RepeatSubmitApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="repeat_submit" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cj.RepeatSubmitApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DataScopeApplicationTests.contextLoads" />
+        <item itemvalue="Application.MyClassLoader" />
+        <item itemvalue="JUnit.RateLimiterApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.RateLimiterApplicationTests.test01" />
+        <item itemvalue="JUnit.RateLimiterApplicationTests.test02" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5034a4d-0fed-4534-aa4f-548d23215000" name="Default Changelist" comment="" />
+      <created>1673004836520</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673004836520</updated>
+      <workItem from="1673004839063" duration="193000" />
+      <workItem from="1673005039270" duration="1791000" />
+      <workItem from="1673006838420" duration="2716000" />
+      <workItem from="1673015275848" duration="1511000" />
+      <workItem from="1673057260565" duration="1006000" />
+      <workItem from="1673062463926" duration="32942000" />
+      <workItem from="1673164770159" duration="6847000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="871" y="252" key="#com.intellij.ide.util.MemberChooser" timestamp="1673168065375">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="871" y="252" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1673168065375" />
+    <state x="3431" y="252" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1112/2560.0.2048.1112@2560.0.2048.1112" timestamp="1673008479324" />
+    <state x="832" y="607" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1673076218475">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="832" y="607" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1673076218475" />
+    <state x="913" y="562" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1673076220278">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="913" y="562" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1673076220278" />
+    <state width="1753" height="411" key="GridCell.Tab.0.bottom" timestamp="1673171703412">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1753" height="411" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1673171703412" />
+    <state width="1753" height="411" key="GridCell.Tab.0.center" timestamp="1673171703412">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1753" height="411" key="GridCell.Tab.0.center/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1673171703412" />
+    <state width="1753" height="411" key="GridCell.Tab.0.left" timestamp="1673171703412">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1753" height="411" key="GridCell.Tab.0.left/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1673171703412" />
+    <state width="1753" height="411" key="GridCell.Tab.0.right" timestamp="1673171703412">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1753" height="411" key="GridCell.Tab.0.right/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1673171703412" />
+    <state width="1753" height="411" key="GridCell.Tab.1.bottom" timestamp="1673171703285">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1753" height="411" key="GridCell.Tab.1.bottom/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1673171703285" />
+    <state width="1753" height="411" key="GridCell.Tab.1.center" timestamp="1673171703285">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1753" height="411" key="GridCell.Tab.1.center/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1673171703285" />
+    <state width="1753" height="411" key="GridCell.Tab.1.left" timestamp="1673171703285">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1753" height="411" key="GridCell.Tab.1.left/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1673171703285" />
+    <state width="1753" height="411" key="GridCell.Tab.1.right" timestamp="1673171703285">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1753" height="411" key="GridCell.Tab.1.right/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1673171703285" />
+    <state width="1753" height="411" key="GridCell.Tab.2.bottom" timestamp="1673171703286">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1753" height="411" key="GridCell.Tab.2.bottom/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1673171703286" />
+    <state width="1753" height="411" key="GridCell.Tab.2.center" timestamp="1673171703285">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1753" height="411" key="GridCell.Tab.2.center/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1673171703285" />
+    <state width="1753" height="411" key="GridCell.Tab.2.left" timestamp="1673171703285">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1753" height="411" key="GridCell.Tab.2.left/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1673171703285" />
+    <state width="1753" height="411" key="GridCell.Tab.2.right" timestamp="1673171703286">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1753" height="411" key="GridCell.Tab.2.right/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1673171703286" />
+    <state x="0" y="423" key="Maven.ArtifactSearchDialog" timestamp="1673104765749">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="0" y="423" key="Maven.ArtifactSearchDialog/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1673104765749" />
+    <state x="630" y="258" key="SettingsEditor" timestamp="1673142593340">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="630" y="258" key="SettingsEditor/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1673142593340" />
+    <state x="830" y="486" width="561" height="524" key="StructurePopup" timestamp="1673165331851">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="830" y="486" width="561" height="524" key="StructurePopup/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1673165331851" />
+    <state x="564" y="392" key="new project wizard" timestamp="1673163764320">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="564" y="392" key="new project wizard/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1673163764320" />
+    <state x="2938" y="502" key="new project wizard/0.0.2048.1112/2560.0.2048.1112@2560.0.2048.1112" timestamp="1673004895247" />
+    <state x="730" y="270" width="672" height="678" key="search.everywhere.popup" timestamp="1673167740871">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="730" y="270" width="672" height="678" key="search.everywhere.popup/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1673167740871" />
+    <state x="3288" y="270" width="672" height="678" key="search.everywhere.popup/0.0.2048.1112/2560.0.2048.1112@2560.0.2048.1112" timestamp="1673005200017" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://G:/maven_repository/org/springframework/spring-core/5.2.12.RELEASE/spring-core-5.2.12.RELEASE-sources.jar!/org/springframework/core/annotation/AnnotationUtils.java</url>
+          <line>528</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ruoyi$RepeatSubmitApplication.ic" NAME="RepeatSubmitApplication Coverage Results" MODIFIED="1673147352349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

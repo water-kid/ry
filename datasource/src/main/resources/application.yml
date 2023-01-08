@@ -1,0 +1,51 @@
+
+spring:
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    driverClassName: com.mysql.cj.jdbc.Driver
+    ds:
+      master:
+        url: jdbc:mysql://localhost:3306/test08?useUnicode=true&characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=true&serverTimezone=GMT%2B8
+        username: root
+        password: root
+      slave:
+#        enabled: false
+        url: jdbc:mysql://localhost:3306/test09?useUnicode=true&characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=true&serverTimezone=GMT%2B8
+        username: root
+        password: root
+    initialSize: 5
+    minIdle: 10
+    maxActive: 20
+    maxWait: 60000
+    timeBetweenEvictionRunsMillis: 60000
+    minEvictableIdleTimeMillis: 300000
+    maxEvictableIdleTimeMillis: 900000
+    validationQuery: SELECT 1 FROM DUAL
+    testWhileIdle: true
+    testOnBorrow: false
+    testOnReturn: false
+    webStatFilter:
+      enabled: true
+    statViewServlet:
+      enabled: true
+      # ���ð��������������������з���
+      allow:
+      url-pattern: /druid/*
+      # ����̨�����û���������
+      login-username: ruoyi
+      login-password: 123456
+    filter:
+      stat:
+        enabled: true
+        # ��SQL��¼
+        log-slow-sql: true
+        slow-sql-millis: 1000
+        merge-sql: true
+      wall:
+        config:
+          multi-statement-allow: true
+
+mybatis:
+  type-handlers-package: com.cj.model
+server:
+  port: 9999

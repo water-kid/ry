@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.cj.mapper.UserMapper">
+
+    <select id="getRolesById" resultType="com.cj.entity.Role">
+        select r.* from sys_role r,sys_user_role ur where r.role_id=ur.role_id and ur.user_id=#{id}
+    </select>
+</mapper>
