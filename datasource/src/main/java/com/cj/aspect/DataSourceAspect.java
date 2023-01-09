@@ -13,7 +13,7 @@ import org.springframework.stereotype.Component;
 
 @Aspect
 @Component
-@Order(20)
+//@Order(20)
 public class DataSourceAspect {
 
     // 方法上有注解  @annotation(com.cj.DataSource)
@@ -22,7 +22,7 @@ public class DataSourceAspect {
     public void pointcut(){}
 
     @Around("pointcut()")
-    public Object around(ProceedingJoinPoint pjp) {
+    public Object around(ProceedingJoinPoint pjp) throws Throwable {
         try {
             MethodSignature signature = (MethodSignature) pjp.getSignature();
 //        signature.getMethod().getAnnotation()
@@ -41,10 +41,11 @@ public class DataSourceAspect {
             DynamicDataSourceContextHolder.setDataSourceType(dsName);
            return  pjp.proceed();
         } catch (Throwable throwable) {
+            // 将异常 扔出去
             throwable.printStackTrace();
+            throw throwable;
         } finally {
             DynamicDataSourceContextHolder.clearDataSourceType();
         }
-        return null;
     }
 }

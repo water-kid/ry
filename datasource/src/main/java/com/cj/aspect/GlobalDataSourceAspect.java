@@ -14,9 +14,9 @@ import org.springframework.stereotype.Component;
 
 import javax.servlet.http.HttpSession;
 
-@Component
-@Aspect
-@Order(1) // 越小的在越前面
+//@Component
+//@Aspect
+//@Order(1) // 越小的在越前面
 public class GlobalDataSourceAspect {
     @Pointcut("execution(* com.cj.service.*.*(..))")
     public void pc(){}

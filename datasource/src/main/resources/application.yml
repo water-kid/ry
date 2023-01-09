@@ -45,7 +45,29 @@ spring:
         config:
           multi-statement-allow: true
 
+          ###############################
+  cloud:
+    alibaba:
+      seata:
+        # group
+        tx-service-group: my_test_tx_group
+  main:
+    # 打开循环依赖
+    allow-circular-references: true
+  application:
+    # 必须要有application name
+    name: dd
+seata:
+  # 默认开了数据源代理，，关掉
+  enable-auto-data-source-proxy: false
+  service:
+    grouplist:
+      114.132.51.96: 8091
+
+  ###############################
+
 mybatis:
   type-handlers-package: com.cj.model
 server:
   port: 9999
+

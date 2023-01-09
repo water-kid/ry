@@ -16,4 +16,10 @@ class DatasourceApplicationTests {
         userService.getAllUser();
     }
 
+
+    @Test
+    public void test01(){
+        userService.test();
+    }
+
 }

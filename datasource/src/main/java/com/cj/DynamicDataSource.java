@@ -1,6 +1,7 @@
 package com.cj;
 
 import com.cj.datasource.LoadDataSource;
+import io.seata.rm.datasource.DataSourceProxy;
 import org.springframework.jdbc.datasource.lookup.AbstractRoutingDataSource;
 import org.springframework.stereotype.Component;
 
@@ -14,7 +15,7 @@ public class DynamicDataSource extends AbstractRoutingDataSource {
         // 将数据源告诉给 AbstractRoutingDataSource
 
         // 设置所有数据源
-        Map<String, DataSource> allDs = loadDataSource.getAllDataSource();
+        Map<String, DataSourceProxy> allDs = loadDataSource.getAllDataSource();
         super.setTargetDataSources(new HashMap<>(allDs));
 
 //        设置默认数据源

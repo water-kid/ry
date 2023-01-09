@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5034a4d-0fed-4534-aa4f-548d23215000" name="Default Changelist" comment="" />
+    <list default="true" id="f5034a4d-0fed-4534-aa4f-548d23215000" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasource/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/datasource/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasource/src/main/java/com/cj/DynamicDataSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/datasource/src/main/java/com/cj/DynamicDataSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasource/src/main/java/com/cj/aspect/DataSourceAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/datasource/src/main/java/com/cj/aspect/DataSourceAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasource/src/main/java/com/cj/aspect/GlobalDataSourceAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/datasource/src/main/java/com/cj/aspect/GlobalDataSourceAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasource/src/main/java/com/cj/datasource/LoadDataSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/datasource/src/main/java/com/cj/datasource/LoadDataSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasource/src/main/java/com/cj/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/datasource/src/main/java/com/cj/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasource/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/datasource/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasource/src/test/java/com/cj/DatasourceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/datasource/src/test/java/com/cj/DatasourceApplicationTests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +33,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -31,7 +52,6 @@
         <option name="downloadAnnotationsAutomatically" value="true" />
         <option name="downloadDocsAutomatically" value="true" />
         <option name="downloadSourcesAutomatically" value="true" />
-        <option name="importAutomatically" value="true" />
         <option name="jdkForImporter" value="1.8" />
         <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
@@ -41,45 +61,40 @@
     <option name="jreName" value="1.8" />
   </component>
   <component name="ProjectId" id="2Jx1I5XvOEq3TED8xQHVFPDR8Aj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RequestMappingsPanelOrder0" value="0" />
-    <property name="RequestMappingsPanelOrder1" value="1" />
-    <property name="RequestMappingsPanelWidth0" value="75" />
-    <property name="RequestMappingsPanelWidth1" value="75" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/data_scope/src/main/resources" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Problems" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;I:/ruoyi/datasource/src/main/resources&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;bdac980cd2a0dd31fb015a4721aacd01&quot;
+  }
+}</component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="I:\ruoyi\datasource\src\main\resources" />
+      <recent name="I:\ruoyi\data_scope\src\main\resources" />
+      <recent name="I:\ruoyi\repeat_submit\src\main\resources" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.cj" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="I:\ruoyi\data_scope\src\main\resources" />
-      <recent name="I:\ruoyi\repeat_submit\src\main\resources" />
-      <recent name="I:\ruoyi\datasource\src\main\resources" />
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cj.service" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.DataScopeApplication">
+  <component name="RunManager" selected="JUnit.DatasourceApplicationTests.test01">
     <configuration name="MyClassLoader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MyClassLoader" />
       <module name="test" />
@@ -98,6 +113,22 @@
       <option name="PACKAGE_NAME" value="com.cj" />
       <option name="MAIN_CLASS_NAME" value="com.cj.DataScopeApplicationTests" />
       <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatasourceApplicationTests.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="datasource" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cj" />
+      <option name="MAIN_CLASS_NAME" value="com.cj.DatasourceApplicationTests" />
+      <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -130,22 +161,6 @@
       <option name="PACKAGE_NAME" value="com.cj" />
       <option name="MAIN_CLASS_NAME" value="com.cj.RateLimiterApplicationTests" />
       <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RateLimiterApplicationTests.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="rate_limiter" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cj.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cj" />
-      <option name="MAIN_CLASS_NAME" value="com.cj.RateLimiterApplicationTests" />
-      <option name="METHOD_NAME" value="test02" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -188,14 +203,15 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.DatasourceApplicationTests.test01" />
         <item itemvalue="JUnit.DataScopeApplicationTests.contextLoads" />
         <item itemvalue="Application.MyClassLoader" />
         <item itemvalue="JUnit.RateLimiterApplicationTests.contextLoads" />
         <item itemvalue="JUnit.RateLimiterApplicationTests.test01" />
-        <item itemvalue="JUnit.RateLimiterApplicationTests.test02" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -212,97 +228,27 @@
       <workItem from="1673015275848" duration="1511000" />
       <workItem from="1673057260565" duration="1006000" />
       <workItem from="1673062463926" duration="32942000" />
-      <workItem from="1673164770159" duration="6847000" />
+      <workItem from="1673164770159" duration="12885000" />
+      <workItem from="1673252110372" duration="2592000" />
+      <workItem from="1673255766540" duration="172000" />
+      <workItem from="1673255948194" duration="1427000" />
+      <workItem from="1673259155717" duration="350000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="871" y="252" key="#com.intellij.ide.util.MemberChooser" timestamp="1673168065375">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state x="871" y="252" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1673168065375" />
-    <state x="3431" y="252" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1112/2560.0.2048.1112@2560.0.2048.1112" timestamp="1673008479324" />
-    <state x="832" y="607" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1673076218475">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state x="832" y="607" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1673076218475" />
-    <state x="913" y="562" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1673076220278">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state x="913" y="562" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1673076220278" />
-    <state width="1753" height="411" key="GridCell.Tab.0.bottom" timestamp="1673171703412">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state width="1753" height="411" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1673171703412" />
-    <state width="1753" height="411" key="GridCell.Tab.0.center" timestamp="1673171703412">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state width="1753" height="411" key="GridCell.Tab.0.center/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1673171703412" />
-    <state width="1753" height="411" key="GridCell.Tab.0.left" timestamp="1673171703412">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state width="1753" height="411" key="GridCell.Tab.0.left/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1673171703412" />
-    <state width="1753" height="411" key="GridCell.Tab.0.right" timestamp="1673171703412">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state width="1753" height="411" key="GridCell.Tab.0.right/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1673171703412" />
-    <state width="1753" height="411" key="GridCell.Tab.1.bottom" timestamp="1673171703285">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state width="1753" height="411" key="GridCell.Tab.1.bottom/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1673171703285" />
-    <state width="1753" height="411" key="GridCell.Tab.1.center" timestamp="1673171703285">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state width="1753" height="411" key="GridCell.Tab.1.center/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1673171703285" />
-    <state width="1753" height="411" key="GridCell.Tab.1.left" timestamp="1673171703285">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state width="1753" height="411" key="GridCell.Tab.1.left/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1673171703285" />
-    <state width="1753" height="411" key="GridCell.Tab.1.right" timestamp="1673171703285">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state width="1753" height="411" key="GridCell.Tab.1.right/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1673171703285" />
-    <state width="1753" height="411" key="GridCell.Tab.2.bottom" timestamp="1673171703286">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state width="1753" height="411" key="GridCell.Tab.2.bottom/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1673171703286" />
-    <state width="1753" height="411" key="GridCell.Tab.2.center" timestamp="1673171703285">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state width="1753" height="411" key="GridCell.Tab.2.center/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1673171703285" />
-    <state width="1753" height="411" key="GridCell.Tab.2.left" timestamp="1673171703285">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state width="1753" height="411" key="GridCell.Tab.2.left/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1673171703285" />
-    <state width="1753" height="411" key="GridCell.Tab.2.right" timestamp="1673171703286">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state width="1753" height="411" key="GridCell.Tab.2.right/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1673171703286" />
-    <state x="0" y="423" key="Maven.ArtifactSearchDialog" timestamp="1673104765749">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state x="0" y="423" key="Maven.ArtifactSearchDialog/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1673104765749" />
-    <state x="630" y="258" key="SettingsEditor" timestamp="1673142593340">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state x="630" y="258" key="SettingsEditor/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1673142593340" />
-    <state x="830" y="486" width="561" height="524" key="StructurePopup" timestamp="1673165331851">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state x="830" y="486" width="561" height="524" key="StructurePopup/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1673165331851" />
-    <state x="564" y="392" key="new project wizard" timestamp="1673163764320">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state x="564" y="392" key="new project wizard/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1673163764320" />
-    <state x="2938" y="502" key="new project wizard/0.0.2048.1112/2560.0.2048.1112@2560.0.2048.1112" timestamp="1673004895247" />
-    <state x="730" y="270" width="672" height="678" key="search.everywhere.popup" timestamp="1673167740871">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state x="730" y="270" width="672" height="678" key="search.everywhere.popup/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1673167740871" />
-    <state x="3288" y="270" width="672" height="678" key="search.everywhere.popup/0.0.2048.1112/2560.0.2048.1112@2560.0.2048.1112" timestamp="1673005200017" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

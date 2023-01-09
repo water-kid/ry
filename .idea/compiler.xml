@@ -6,13 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="jwt" />
-        <module name="captcha" />
-        <module name="data_scope" />
-        <module name="repeat_submit" />
-        <module name="datasource" />
         <module name="rate_limiter" />
         <module name="test" />
+        <module name="captcha" />
+        <module name="repeat_submit" />
+        <module name="jwt" />
+        <module name="datasource" />
+        <module name="data_scope" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />
